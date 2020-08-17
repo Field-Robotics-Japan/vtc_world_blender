@@ -11,7 +11,7 @@ You need to install PointCloudViewer from following site.
 [space_view3d_point_cloud_visualizer.py](https://github.com/uhlik/bpy/blob/master/space_view3d_point_cloud_visualizer.py) is what you need to install to your Blender(>2.80).
 
 # LICENSE Dependencies
-- [Stencil2 PointCloud data](./resource/PointCloud) : [Apache2.0](http://www.apache.org/licenses/LICENSE-2.0
+- [Stencil2 PointCloud data](./Resources/point_cloud/TsukubaChallenge_2018.ply) : [Apache2.0](http://www.apache.org/licenses/LICENSE-2.0
 ) by 防衛大学校ソフトウェア工学講座  
   This data is referenced to create the world model.
 - [cityhall.blend](./resource/cityhall.blend) is modified from [City Hall.fbx](https://github.com/furo-org/VTC/blob/TC2019/Assets/City%20Hall.fbx) which is created by [Tomoaki Yoshida](https://github.com/furo-org/VTC) with [Apache2.0](http://www.apache.org/licenses/LICENSE-2.0) license.
